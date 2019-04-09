@@ -1,0 +1,18 @@
+{
+  "name": "automated_api_promotion",
+  "version": "1.0.0",
+  "description": "Automated promotion of applications to PROD environment",
+  "main": "app.js",
+  "dependencies": {
+    "js-yaml": "^3.10.0",
+    "promise": "^8.0.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node src/app.js app",
+    "start": "node src/app.js app"
+  },
+  "author": "Igor Repka",
+  "license": "ISC"
+}

@@ -1,0 +1,12 @@
+Config:
+  Organisation: "IRMulesoftCrowd"
+  SourceEnvName: "TEST"
+  SourceServerName: "ContainerizedCluster"
+  SourceServerType: "CLUSTER"
+  TargetEnvName: "PROD"
+  TargetServerName: "joker"
+  TargetServerType: "SERVER"
+  Applications:
+    - 
+      appName: "ir-s-customer"
+      apiInstanceId: 9546857
