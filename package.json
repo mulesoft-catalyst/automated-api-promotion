@@ -4,7 +4,7 @@
   "description": "Automated promotion of applications to PROD environment",
   "main": "app.js",
   "dependencies": {
-    "js-yaml": "^3.10.0",
+    "js-yaml": "^3.13.1",
     "promise": "^8.0.1",
     "request": "^2.83.0"
   },
